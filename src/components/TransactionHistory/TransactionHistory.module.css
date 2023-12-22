@@ -1,0 +1,18 @@
+.transaction_history {
+  margin: 0 auto;
+  width: 100%;
+  font-size: 16px;
+  background-color: aliceblue;
+  width: 400px;
+  line-height: normal;
+  text-transform: capitalize;
+  border: 1px solid rgb(156, 55, 195);
+}
+td,
+th {
+  border: 1px solid rgb(156, 55, 195);
+  padding: 8px;
+}
+th {
+  background-color: rgb(156, 55, 195);
+}
